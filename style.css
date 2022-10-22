@@ -45,7 +45,6 @@
     background: url(https://media.tenor.com/izTNkY2BgkAAAAAC/fade-away-oooooooooooo.gif);    
     background-size: cover;
     background-position: center center;
-
 }   
 
 .ex-5-square {
@@ -111,6 +110,7 @@
         transform: rotate(1turn);
     }
 }
+
 .ex-11-icon {
     font-size: 60px;
 }
